@@ -18,6 +18,12 @@ public class OrderObject implements SqlEntity<Order>{
     private List productIds;
     private int packageTypeId;
 
+    public OrderObject() {
+    }
+
+    public OrderObject(Order entity) {
+        this.entity = entity;
+    }
 
     @Override
     public void generateEntity() {

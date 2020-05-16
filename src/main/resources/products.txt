@@ -1,0 +1,50 @@
+Części do rowerów;2;false;true;5600
+Poduszki;3;false;false;30
+Elementy do Porsche;2;true;true;45000
+Paczka ze słodyczami;3;false;false;20asd
+Słodycze;2;false;true;890
+Elementy stalowe;2;false;true;2200
+Kosmetyki;3;true;false;200
+Narzędzia;2;false;true;2500
+Żarówki Phillips;2;true;false;8900
+Sofa;1;false;false;2500
+Krzesła do restauracji;2;false;false;600
+Talerze;2;true;true;2200
+Koperty;3;false;false;300
+taborety;2;false;false;800
+Budziki;2;true;true;5000
+Elementy elektryczne;2;false;true;9800
+dywaniki;2;false;false;4000
+Dywan;1;false;false;3500
+Dywany;2;false;false;6980
+Dywanik;3;false;false;100
+zdjęcia;4;false;false;450
+Dysk twardy;3;true;false;500
+Głośniki;3;true;false;120
+Telewizor;3;true;false;3640
+Lustra;2;true;false;7000
+Mydełko FA;3;false;false;10
+pasta do butów;3;false;false;12
+Lampki choinkowe;2;true;true;5600
+drzwi do domu;1;false;false;3200
+szafa drewniana;1;false;false;12300
+opony;2;false;true;600
+barierka;2;false;true;4230
+narty;1;false;false;3200
+pralka;2;true;false;2800
+kołdry;3;false;false;200
+poduszka;3;false;false;35
+stoliki;2;false;false;1600
+materace dmuchane;2;false;true;6400
+grille;2;false;true;3200
+koło do malucha;3;false;false;200
+buty adidos;3;false;false;13
+piłka;3;false;false;30
+młotki;2;false;true;6000
+podłoga drewniana;2;false;true;5420
+lodówka;2;true;false;6000
+skrzynia z listami;2;false;true;14000
+paczka;3;false;false;50
+paleta z produktami;2;false;true;2500
+duża skrzynia;1;false;true;9000
+List;4;false;false;8
